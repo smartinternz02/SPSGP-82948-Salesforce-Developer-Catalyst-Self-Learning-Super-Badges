@@ -4,3 +4,5 @@ Salesforce Developer Catalyst Self-Learning &amp; Super Badges
 # Apex Learning Module and Solutions
 
 - Apex Basics and Database
+- Apex Specialist Badge
+
