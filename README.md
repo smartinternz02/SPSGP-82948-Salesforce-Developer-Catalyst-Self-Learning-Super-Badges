@@ -5,4 +5,4 @@ Salesforce Developer Catalyst Self-Learning &amp; Super Badges
 
 - Apex Basics and Database
 - Apex Specialist Badge
-
+- Apex Testing and Debugging
